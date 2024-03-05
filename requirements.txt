@@ -1,0 +1,14 @@
+streamlit
+cv2 (OpenCV)
+numpy
+yaml
+math
+time
+pygame
+pandas
+datetime
+subprocess
+torch
+pathlib
+models
+utils
