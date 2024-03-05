@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['mask on', 'no mask on']
+
+roboflow:
+  workspace: individualassignment
+  project: Deep Learning_Group Assignment
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/individualassignment/deep-learning_group-assignment/1
