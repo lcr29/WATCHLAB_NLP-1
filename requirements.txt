@@ -1,5 +1,5 @@
 streamlit
-cv2 (OpenCV)
+cv2
 numpy
 yaml
 math
